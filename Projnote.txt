@@ -1,0 +1,37 @@
+## adpter阅读
+
+#### 2023.5.17
+
+阅读[allocator.h](https://github.com/Alinshans/MyTinySTL/blob/master/MyTinySTL/allocator.h) 源代码部分，学习了泛型编程模板类的基本使用方式。C++中的模板类包括函数模板与类模板，主要应用于泛型编程。
+
+1. 函数模板的使用
+
+   ```c++
+   
+   ```
+
+
+配置vscode开发c++开发环境
+
+git安装
+
+建一个文件夹，右键用git bash打开
+
+git init ：初始化一个仓库
+
+git clone 仓库github地址 ：将远程库克隆到本地
+
+然后查看与修改
+
+对于新加的文件：
+
+pwd 查看文件夹中的文件例如a.txt
+
+git add  a.txt ：提交文件
+
+git status：查看状态
+
+git commit -o a.txt -m ‘此次更新相关信息’
+
+git push -u origin master :将本分支中修改的提交到远程仓库
+
